@@ -1,4 +1,3 @@
-import { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import StarsCanvas from "@/components/main/StarBackground";

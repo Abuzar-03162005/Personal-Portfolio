@@ -50,8 +50,8 @@ const Footer = () => {
             </div>
 
             <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 lg:text-left">
-              Crafted with creativity and passion by ABUZAR BUKHARI. Let's build
-              your digital dreams together. Contact me for collaborations.
+              Crafted with creativity and passion by ABUZAR BUKHARI. Let&apos;s
+              build your digital dreams together. Contact me for collaborations.
             </p>
           </div>
 
@@ -99,7 +99,7 @@ const Footer = () => {
         </div>
 
         <p className="mt-12 text-center text-sm text-gray-500 lg:text-right">
-          Copyright &copy; 2024. All rights reserved.
+          Copyright © 2024. All rights reserved.
         </p>
       </div>
     </footer>

@@ -322,4 +322,8 @@ export const languageCardData = [
     height: 500,
     width: 200,
   },
+  // {
+  //   skill_name : "GSAP",
+  //   Image:""
+  // }
 ];
